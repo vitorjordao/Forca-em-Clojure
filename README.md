@@ -1,6 +1,6 @@
 # forca
 
-FIXME: description
+Projeto de uma forca em clojure
 
 ## Installation
 
@@ -8,29 +8,9 @@ Download from http://example.com/FIXME.
 
 ## Usage
 
-FIXME: explanation
+Digite:
 
-    $ java -jar forca-0.1.0-standalone.jar [args]
+    $ java -jar forca-0.1.0-standalone.jar
 
-## Options
+e tente advinhar a palavra
 
-FIXME: listing of options this app accepts.
-
-## Examples
-
-...
-
-### Bugs
-
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
-## License
-
-Copyright © 2019 FIXME
-
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
